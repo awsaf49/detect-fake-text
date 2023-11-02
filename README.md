@@ -1,5 +1,7 @@
 # LLM - Detect AI Generated Text
 > Identify which essay was written by a large language model
+> 
+![image](https://github.com/awsaf49/detect-fake-text/assets/36858976/b365f6ef-ef01-49ac-af7f-0bc2ca3ba835)
 
-![header](https://github.com/awsaf49/detect-fake-text/assets/36858976/1e8bc498-2c79-40a1-b9ce-5c3917042a4a)
+
 
